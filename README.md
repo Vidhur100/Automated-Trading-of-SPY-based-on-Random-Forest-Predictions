@@ -6,7 +6,7 @@ This project uses machine learning models to algorithmically trade the SPY ETF, 
 - Makes predictions on 2023 data and simulates trades
 - Calculates profitability of simulated trades
 # Demo
-https://github.com/Vidhur100/Automated-Trading-of-SPY-based-on-Random-Forest-Predictions/assets/11946297/f3c98923-aef5-48fc-bd92-0a95d8a3ac35
+https://github.com/Vidhur100/Automated-Trading-of-SPY-based-on-Random-Forest-Predictions/assets/11946297/1a5a216f-0a2e-4d34-9125-ef3b47b47826
 # Usage
 The main file to run is trading_bot.py. Simply run:
 python trading_bot.py
